@@ -12,3 +12,6 @@ view = 2
 image = ""
 caption = ""
 +++
+date = 2017-12-01
+title = "My first blog post"
++++
