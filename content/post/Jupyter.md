@@ -21,4 +21,4 @@ fig,ax= plt.subplots()
 ax.plot(range(9),range(9))
 fig.show()
 ```
-![png](output_1_1.png)
+![alt text](output_1_1.png,"yeah")
