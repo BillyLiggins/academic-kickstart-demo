@@ -39,6 +39,4 @@ fig.show()
       "matplotlib is currently using a non-GUI backend, "
 
 
-
-![png](output_1_1.png)
-
+![png](static/img/output_1_1.png)
