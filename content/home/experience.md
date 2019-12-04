@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "subtitle"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Quant developer (Python)"
+  company = "Yobota"
+  company_url = "https://yobota.xyz"
+  location = "London"
+  date_start = "2019-07-29"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Complete platform simulation development:
+
+      -Platform handling loans and deposit accounts
+  * Simulation monitoring (Promtheus and Grafana)
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "PhD student (C++ and python)"
+  company = "Queen Mary University of London"
+  company_url = "https://pprc.qmul.ac.uk"
+  location = "London"
+  date_start = "2015-07-01"
+  date_end = "2019-11-12"
+
+
+
+
+description = """
+
+Worked on many aspects of the neutrino example [ SNO+ ] (https://snoplus.phy.queensu.ca/), including: 
+
+  - Front to end physics analysis lead ( Cosmic muon induced neutrons in UPW )
+
+    - Physics event reconstruction
+    - Particle selection optimisation
+    - Statistical modelling and analysis
+  - Low level anomaly detection
+  - Detector calibration with in situ radioactive background studies
+  - Detector operator GUI development
+  - Clean room construction
+  - Python and C++ teaching assistance
+"""
+
+
 
 +++
